@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-localization-react-inertia",
+  "capabilityKey": "planned:cms:localization",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-localization-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/localization.md",
+  "presentationPlan": "projects/cms/react/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
